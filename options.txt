@@ -4,4 +4,4 @@
     title: 'First Item',
     goto:'http://www.google.com'
   }
-];
+]
